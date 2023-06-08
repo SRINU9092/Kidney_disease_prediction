@@ -1,0 +1,12 @@
+UNIT TESTING 
+
+The unit testing will be carried out in stages, by testing the code, starting with the smallest and lowest level modules and progressing one by one. The code is run foreach cell, allowing us to obtain correct code free of errors, as errors can be erased atthe cell level.
+
+SYSTEM TESTING
+
+Integration testing is a software testing practice for that focuses on testing the interaction between different modules or components of a software system to ensure that they work together correctly. The goal of integration testing is to identify and
+resolve any issues that may arise when the components are combined. In the context of a software application designed to support the management of chronic kidney disease, integration testing would involve the testing of both interactions between the
+different features and components of the application. If the application includes the features for tracking medication schedules and monitoring blood pressure, integration testing would verify that these features work
+together correctly and that the data from one feature is correctly integrated with the data from the other feature. Integration testing is an important part of the software
+development process as it helps identify and resolve any issues that may arise when different components of the system are combined. By verifying that the components
+work together correctly, integration testing helps ensure that the software application is reliable, accurate, and easy to use for patients and healthcare providers.
